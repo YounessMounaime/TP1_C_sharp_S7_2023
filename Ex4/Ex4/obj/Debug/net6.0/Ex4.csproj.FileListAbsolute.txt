@@ -1,0 +1,14 @@
+C:\Users\kh\Desktop\C#\Tp1\Ex4\Ex4\bin\Debug\net6.0\Ex4.exe
+C:\Users\kh\Desktop\C#\Tp1\Ex4\Ex4\bin\Debug\net6.0\Ex4.deps.json
+C:\Users\kh\Desktop\C#\Tp1\Ex4\Ex4\bin\Debug\net6.0\Ex4.runtimeconfig.json
+C:\Users\kh\Desktop\C#\Tp1\Ex4\Ex4\bin\Debug\net6.0\Ex4.dll
+C:\Users\kh\Desktop\C#\Tp1\Ex4\Ex4\bin\Debug\net6.0\Ex4.pdb
+C:\Users\kh\Desktop\C#\Tp1\Ex4\Ex4\obj\Debug\net6.0\Ex4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kh\Desktop\C#\Tp1\Ex4\Ex4\obj\Debug\net6.0\Ex4.AssemblyInfoInputs.cache
+C:\Users\kh\Desktop\C#\Tp1\Ex4\Ex4\obj\Debug\net6.0\Ex4.AssemblyInfo.cs
+C:\Users\kh\Desktop\C#\Tp1\Ex4\Ex4\obj\Debug\net6.0\Ex4.csproj.CoreCompileInputs.cache
+C:\Users\kh\Desktop\C#\Tp1\Ex4\Ex4\obj\Debug\net6.0\Ex4.dll
+C:\Users\kh\Desktop\C#\Tp1\Ex4\Ex4\obj\Debug\net6.0\refint\Ex4.dll
+C:\Users\kh\Desktop\C#\Tp1\Ex4\Ex4\obj\Debug\net6.0\Ex4.pdb
+C:\Users\kh\Desktop\C#\Tp1\Ex4\Ex4\obj\Debug\net6.0\Ex4.genruntimeconfig.cache
+C:\Users\kh\Desktop\C#\Tp1\Ex4\Ex4\obj\Debug\net6.0\ref\Ex4.dll

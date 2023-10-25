@@ -1,0 +1,10 @@
+C:\Users\kh\Desktop\C#\Tp1\ApplicationDeGestionTaches\ApplicationDeGestionTaches\bin\Debug\ApplicationDeGestionTaches.exe.config
+C:\Users\kh\Desktop\C#\Tp1\ApplicationDeGestionTaches\ApplicationDeGestionTaches\bin\Debug\ApplicationDeGestionTaches.exe
+C:\Users\kh\Desktop\C#\Tp1\ApplicationDeGestionTaches\ApplicationDeGestionTaches\bin\Debug\ApplicationDeGestionTaches.pdb
+C:\Users\kh\Desktop\C#\Tp1\ApplicationDeGestionTaches\ApplicationDeGestionTaches\obj\Debug\ApplicationDeGestionTaches.csproj.AssemblyReference.cache
+C:\Users\kh\Desktop\C#\Tp1\ApplicationDeGestionTaches\ApplicationDeGestionTaches\obj\Debug\ApplicationDeGestionTaches.Form1.resources
+C:\Users\kh\Desktop\C#\Tp1\ApplicationDeGestionTaches\ApplicationDeGestionTaches\obj\Debug\ApplicationDeGestionTaches.Properties.Resources.resources
+C:\Users\kh\Desktop\C#\Tp1\ApplicationDeGestionTaches\ApplicationDeGestionTaches\obj\Debug\ApplicationDeGestionTaches.csproj.GenerateResource.cache
+C:\Users\kh\Desktop\C#\Tp1\ApplicationDeGestionTaches\ApplicationDeGestionTaches\obj\Debug\ApplicationDeGestionTaches.csproj.CoreCompileInputs.cache
+C:\Users\kh\Desktop\C#\Tp1\ApplicationDeGestionTaches\ApplicationDeGestionTaches\obj\Debug\ApplicationDeGestionTaches.exe
+C:\Users\kh\Desktop\C#\Tp1\ApplicationDeGestionTaches\ApplicationDeGestionTaches\obj\Debug\ApplicationDeGestionTaches.pdb

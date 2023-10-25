@@ -1,0 +1,14 @@
+C:\Users\kh\Desktop\C#\Tp1\Devoir1\Devoir1\bin\Debug\net6.0\Devoir1.exe
+C:\Users\kh\Desktop\C#\Tp1\Devoir1\Devoir1\bin\Debug\net6.0\Devoir1.deps.json
+C:\Users\kh\Desktop\C#\Tp1\Devoir1\Devoir1\bin\Debug\net6.0\Devoir1.runtimeconfig.json
+C:\Users\kh\Desktop\C#\Tp1\Devoir1\Devoir1\bin\Debug\net6.0\Devoir1.dll
+C:\Users\kh\Desktop\C#\Tp1\Devoir1\Devoir1\bin\Debug\net6.0\Devoir1.pdb
+C:\Users\kh\Desktop\C#\Tp1\Devoir1\Devoir1\obj\Debug\net6.0\Devoir1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kh\Desktop\C#\Tp1\Devoir1\Devoir1\obj\Debug\net6.0\Devoir1.AssemblyInfoInputs.cache
+C:\Users\kh\Desktop\C#\Tp1\Devoir1\Devoir1\obj\Debug\net6.0\Devoir1.AssemblyInfo.cs
+C:\Users\kh\Desktop\C#\Tp1\Devoir1\Devoir1\obj\Debug\net6.0\Devoir1.csproj.CoreCompileInputs.cache
+C:\Users\kh\Desktop\C#\Tp1\Devoir1\Devoir1\obj\Debug\net6.0\Devoir1.dll
+C:\Users\kh\Desktop\C#\Tp1\Devoir1\Devoir1\obj\Debug\net6.0\refint\Devoir1.dll
+C:\Users\kh\Desktop\C#\Tp1\Devoir1\Devoir1\obj\Debug\net6.0\Devoir1.pdb
+C:\Users\kh\Desktop\C#\Tp1\Devoir1\Devoir1\obj\Debug\net6.0\Devoir1.genruntimeconfig.cache
+C:\Users\kh\Desktop\C#\Tp1\Devoir1\Devoir1\obj\Debug\net6.0\ref\Devoir1.dll
